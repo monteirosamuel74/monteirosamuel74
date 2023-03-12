@@ -1,6 +1,6 @@
 ### Olá! 👋 Eu sou o Samuel Monteiro.
 
-- 🌱 Atualmente estou estudando banco de dados, javascript, entre outros códigos...
+- 🌱 Atualmente estou estudando banco de dados, javascript, nodejs, entre outros códigos...
 - 📫 Meu e-mail é: ss-monteiro@outlook.com
 - 😄 Pronome: ele/dele
 - ⚡ Fato curioso: Sempre achei que cosmel fosse chopp com mel.
